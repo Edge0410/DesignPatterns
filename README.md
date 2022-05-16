@@ -1,4 +1,4 @@
-# Proiect 2 - POO Laborator
+# Proiect 3 - POO Laborator
 
 Proiectul este compus din 3 parti individuale:
 
