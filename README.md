@@ -1,4 +1,4 @@
-# Proiect 3 - POO Laborator
+# Design Patterns in C++ - Proiect POO
 
 Proiectul este compus din 3 parti individuale:
 
@@ -13,7 +13,7 @@ g++ main.cpp -o main
 .\main
 ```
 
-## Template de lista simplu inlantuita
+### Template de lista simplu inlantuita
 
 Acest template este implementarea pentru orice tip de date a listei simplu inlantuite clasica.
 In practica, a fost folosita in fluxul de testare pentru a retine medicamentele produse de fabrica.
@@ -22,7 +22,7 @@ In practica, a fost folosita in fluxul de testare pentru a retine medicamentele 
 
 Are cateva functii specifice implementate - clear (goleste lista), getSize (returneaza lungimea), append(introduce un element), precum si un iterator propriu.
 
-## Fabrica de medicamente - Factory design pattern
+##3 Fabrica de medicamente - Factory design pattern
 
 Acest design pattern are rolul de a simula ideea de fabrica prin care utilizatorul sa nu poata interactiona direct cu obiectele create, implementand oarecum ideea de constructor virtual. 
 Utilizatorul poate apela astfel fabrica pentru a produce obiece noi
